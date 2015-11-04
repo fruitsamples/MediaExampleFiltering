@@ -10,6 +10,7 @@
 	<dict>
 		<key>com.mycompany.syncexamples.Event</key>
 		<array>
+            <string>com.apple.syncservices.RecordEntityName</string>
 			<string>date</string>
 			<string>startDate</string>
 			<string>endDate</string>
@@ -19,6 +20,7 @@
 		</array>
 		<key>com.mycompany.syncexamples.Media</key>
 		<array>
+            <string>com.apple.syncservices.RecordEntityName</string>
 			<string>date</string>
 			<string>imageURL</string>
 			<string>title</string>
@@ -26,6 +28,7 @@
 		</array>
 		<key>com.mycompany.syncexamples.Calendar</key>
 		<array>
+            <string>com.apple.syncservices.RecordEntityName</string>
 			<string>title</string>
 			<string>events</string>
 		</array>
